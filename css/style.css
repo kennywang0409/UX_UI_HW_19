@@ -1,0 +1,16 @@
+div{
+    display:flex
+    flex-direction: row-reverse
+    
+}
+#categoryGrid{
+    margin:20px
+}
+header {
+    background-color:teal;
+    padding: 15px;
+}
+footer li {
+    display: inline-block;
+    padding: 0px 5px;
+
